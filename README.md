@@ -20,5 +20,5 @@ Follow me on my social media handles
 
 ## License
 
-Fireblogger is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+This software is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
