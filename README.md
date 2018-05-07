@@ -4,8 +4,6 @@ This is a sample app that makes use of ethereum smart contract and ether to sell
 This project is a demonstration of how to start accepting ethereum payments on any website. It was built with Javascript, html, css and ethereum solidity.
 
 
-I can join your team, you can contact me.
-
 ## How to thank me
 * Star this repo
 Follow me on my social media handles
